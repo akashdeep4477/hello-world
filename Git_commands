@@ -1,0 +1,6 @@
+Steps to add a file in GIT :-
+
+1. Create a file in working repository.
+2. Go to working repository in terminal.
+3. To see your changes/insertion in local repository use following command : git status
+4. To add a file in repository, use following command : git add <file_name>. If you want to add multiple files at a same time then use command like this : git add <file_name1> <file_name2>
